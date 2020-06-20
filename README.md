@@ -14,7 +14,9 @@ This code base is the implementantion of a Spring Boot RestFull API for the Abil
 
 Is done using Hibernates, API-First & Domain Driven Design, Designed to Support Multiple front-end technologies & 
 
-Operation Systems (MAC & PC), using Object Oriented Programming Standards, using cloud computing services and servers.
+Operation Systems (MAC & PC), using Object Oriented Programming Standards, using cloud computing services and servers, using MySQL 
+
+relational database model and ANSI SQL.
 
 __
 
