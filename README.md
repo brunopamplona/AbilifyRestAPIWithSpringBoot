@@ -36,6 +36,7 @@ a repair service gig on the Abilify Platform.
    - getProviderUserRecommendations;
    - getProviderUserJobHistory;
 
+
 2) Tech Support Customer user profilling service
 
    API CRUD EndPoints (ver 1.0):
@@ -54,9 +55,10 @@ a repair service gig on the Abilify Platform.
    
    - getCustomerRecommendationList;
    - getCustomerUserJobsHistory;
-   
+  
+  
 3) Tech Support Offering Services 
-( Tech support customer posts an Tech support job on the platform)
+   (Tech support customer posts an Tech support job on the platform)
 
    API CRUD EndPoints (ver 1.0):
    
@@ -69,9 +71,10 @@ a repair service gig on the Abilify Platform.
    - registerTechSupportJobDate;
    - registerTechSupportJobItens;
    
+   
 4) Tech Support Job Service Matcher 
-( Tech support provider gets notified on a new job post 
-/ service provider bids for the job; etc ...)
+   (Tech support provider gets notified on a new job post 
+    / service provider bids for the job; etc ...)
 
    API CRUD EndPoints (ver 1.0):   
    
@@ -80,24 +83,27 @@ a repair service gig on the Abilify Platform.
    - notifyCustomerAboutMatchedPros;
    - sendCustomerJobExecutionProposals;
    
+   
 5) Tech Support Job Negotiation Chat Session Service
-( Chat service between Tech Support customer and 
-the Tech Support provider to clear any doubts or
-refine service price, tech support execution dates/times)
+   (Chat service between Tech Support customer and 
+    the Tech Support provider to clear any doubts or
+    refine service price, tech support execution dates/times)
 
- API CRUD EndPoints (ver 2.0):
- (to be done ...)
- 
+   API CRUD EndPoints (ver 2.0):
+   (to be done ...)
+
+
 6) Tech Support Job Payment Service
-( Used for approval and processing Tech support job invocing
-and Tech support provider payment for a customer approved job done)
+   (Used for approval and processing Tech support job invocing
+    and Tech support provider payment for a customer approved job done)
 
-API CRUD EndPoints (ver 2.0):
-(to be done ...)
+   API CRUD EndPoints (ver 2.0):
+   (to be done ...)
+
 
 7) Tech Support Recommendation Service
-(Used for recommending and ratting a Tech Service Provider for
-a job well done or for not recommending at all)
+   (Used for recommending and ratting a Tech Service Provider for
+    a job well done or for not recommending at all)
 
-API CRUD EndPoints (ver 2.0):
-(to be done ...)
+   API CRUD EndPoints (ver 2.0):
+   (to be done ...)
