@@ -36,7 +36,7 @@ a repair service gig on the Abilify Platform.
    - getProviderUserRecommendations;
    - getProviderUserJobHistory;
 
-
+   __
 2) Tech Support Customer user profilling service
 
    API CRUD EndPoints (ver 1.0):
@@ -56,7 +56,7 @@ a repair service gig on the Abilify Platform.
    - getCustomerRecommendationList;
    - getCustomerUserJobsHistory;
   
-  
+   __
 3) Tech Support Offering Services 
    (Tech support customer posts an Tech support job on the platform)
 
@@ -71,7 +71,7 @@ a repair service gig on the Abilify Platform.
    - registerTechSupportJobDate;
    - registerTechSupportJobItens;
    
-   
+   __
 4) Tech Support Job Service Matcher 
    (Tech support provider gets notified on a new job post 
     / service provider bids for the job; etc ...)
@@ -83,7 +83,7 @@ a repair service gig on the Abilify Platform.
    - notifyCustomerAboutMatchedPros;
    - sendCustomerJobExecutionProposals;
    
-   
+   __
 5) Tech Support Job Negotiation Chat Session Service
    (Chat service between Tech Support customer and 
     the Tech Support provider to clear any doubts or
@@ -92,7 +92,7 @@ a repair service gig on the Abilify Platform.
    API CRUD EndPoints (ver 2.0):
    (to be done ...)
 
-
+   __
 6) Tech Support Job Payment Service
    (Used for approval and processing Tech support job invocing
     and Tech support provider payment for a customer approved job done)
@@ -100,7 +100,7 @@ a repair service gig on the Abilify Platform.
    API CRUD EndPoints (ver 2.0):
    (to be done ...)
 
-
+   __
 7) Tech Support Recommendation Service
    (Used for recommending and ratting a Tech Service Provider for
     a job well done or for not recommending at all)
