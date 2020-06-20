@@ -14,9 +14,9 @@ a repair service gig on the Abilify Platform.
 
 1) IT Support Provider user profilling service
 
-API EndPoints (ver 1.0):
+   API EndPoints (ver 1.0):
 
-- registerProviderUser;              - registerProviderUserContactInfo;
+- registerProviderUser;              
 - signInProviderUser;
 - signOutProviderUser;
 - deleteProviderUser;
@@ -38,6 +38,6 @@ API EndPoints (ver 1.0):
 
 2) IT Support Customer user profilling service
 
-API EndPoints (ver 1.0):
+   API EndPoints (ver 1.0):
 
 -
