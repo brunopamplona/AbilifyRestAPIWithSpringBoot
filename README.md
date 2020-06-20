@@ -16,7 +16,7 @@ a repair service gig on the Abilify Platform.
 
 API EndPoints (ver 1.0):
 
-- registerProviderUser;
+- registerProviderUser;              - registerProviderUserContactInfo;
 - signInProviderUser;
 - signOutProviderUser;
 - deleteProviderUser;
