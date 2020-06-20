@@ -1,4 +1,4 @@
-# Abilify Rest API Implemented with Spring Boot, Hibernates, API-First & Domain Driven Design, Designed to Support Multiple Front-ends & Operation Systems, using Object Oriented Programming Standards, using cloud computing services and servers
+# Abilify Rest API Implemented with Spring Boot, Hibernates, API-First & Domain Driven Design, Designed to Support Multiple front-end technologies & Operation Systems (MAC & PC), using Object Oriented Programming Standards, using cloud computing services and servers
 
 This code base is the implementantion of a Spring Boot RestFull API for the Ability Marketplace platform.
 
