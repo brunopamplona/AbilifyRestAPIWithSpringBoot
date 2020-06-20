@@ -14,30 +14,63 @@ a repair service gig on the Abilify Platform.
 
 1) IT Support Provider user profilling service
 
-   API EndPoints (ver 1.0):
+   API CRUD EndPoints (ver 1.0):
 
-- registerProviderUser;              
-- signInProviderUser;
-- signOutProviderUser;
-- deleteProviderUser;
+   - registerProviderUser;              
+   - signInProviderUser;
+   - signOutProviderUser;
+   - deleteProviderUser;
 
-- registerProviderUserContactInfo;
-- registerProviderUserPhoto&Video;
-- registerProviderUserProfileFAQs;
-- registerProviderUserFullAddress;
+   - registerProviderUserContactInfo;
+   - registerProviderUserPhoto&Video;
+   - registerProviderUserProfileFAQs;
+   - registerProviderUserFullAddress;
 
-- registerProviderUserCoveredServices;
-- registerProviderUserCoveredNeighbourhoods;
+   - registerProviderUserCoveredServices;
+   - registerProviderUserCoveredNeighbourhoods;
 
-- registerProviderUserBillingInfo;
-- registerProviderUserPaymentInfo;
+   - registerProviderUserBillingInfo;
+   - registerProviderUserPaymentInfo;
 
-- getProviderUserTotalScores;
-- getProviderUserRecommendations;
-- getProviderUserJobHistory;
+   - getProviderUserTotalScores;
+   - getProviderUserRecommendations;
+   - getProviderUserJobHistory;
 
 2) IT Support Customer user profilling service
 
-   API EndPoints (ver 1.0):
+   API CRUD EndPoints (ver 1.0):
 
--
+   - registerCustomerUser;
+   - signInCustomerUser;
+   - signOutCustomerUser;
+   - removeCustomerUser;
+   
+   - registerCustomerUserContactInfo;
+   - registerCustomerUserPhoto;
+   - registerCustomerUserFullAddress;
+   
+   - registerCustomerUserBillingInfo;
+   - registerCustomerChargingInfo;
+   
+   - getCustomerRecommendationList;
+   - getCustomerUserJobsHistory;
+   
+3) IT Support Offering Services 
+( Tech support customer posts an Tech support job on the platform)
+
+   API CRUD EndPoints (ver 1.0):
+   
+   - registerTechSupportJob;
+   - registerTechSupportJobOperSystem;
+   - registerTechSupportJobType;
+   
+   - registerTechSupportJobDescription;
+   - registerTechSupportJobLocale;
+   - registerTechSupportJobDate;
+   - registerTechSupportJobItens;
+   
+4) IT Support Job Service Matcher 
+( Tech support provider gets notified on a new job post / service provider bids for the job; etc ...)
+
+   API CRUD EndPoints (ver 1.0):   
+   
