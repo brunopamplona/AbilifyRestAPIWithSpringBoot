@@ -1,4 +1,4 @@
-# Abilify Rest API Implemented with Spring Boot
+# Abilify Rest API Implemented in Java Spring Boot, Hibernates and MySQL
 
 The Abilify MarketPlace is a Service Oriented Architecture use case implementation of Smart phones, TVs and all related smart 
 
