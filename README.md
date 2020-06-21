@@ -20,6 +20,21 @@ relational database model and ANSI SQL.
 
 __
 
+# Abilify API Non functional requirements:
+
++ Escalability -> It is service oriented so it scales vertically by functionality volume usage;
+
++ Maintainability -> Compliant with SOLID Development practices and code using design patterns and OOP;
+
++ Flexibility -> Designed for multiple frontend devices and operating systems implementation (Mobile, Notebook, Desktop, Windoes, Android, IOS);
+
++ Hostability -> Designed to be hosted in the cloud (Google Cloud, AWS or Azure);
+
++ Documentation -> Product Management using (Scrum Agile) methodology, API Development using Postman and Swagger;
+
++ Usability -> Designed for great user experience workflows and easy-to-use functionalities (such as:  post a tech support job, neighbourhood and email first then receive tech service providers contacts and ratea by email only then login using your facebook account and submit your full home address and phone to interact with tech service providers);
+__
+
 # System / API Services / Relational Database Model Design:
 
 1) Tech Support Provider user profilling service
@@ -47,6 +62,7 @@ __
    - getProviderUserJobHistory;
 
    __
+   
 2) Tech Support Customer user profilling service
 
    API CRUD EndPoints (ver 1.0):
@@ -67,6 +83,7 @@ __
    - getCustomerUserJobsHistory;
   
    __
+   
 3) Tech Support Offering Services 
    (Tech support customer posts an Tech support job on the platform)
 
@@ -82,6 +99,7 @@ __
    - registerTechSupportJobItens;
    
    __
+   
 4) Tech Support Job Service Matcher 
    (Tech support provider gets notified on a new job post 
     / service provider bids for the job; etc ...)
@@ -94,6 +112,7 @@ __
    - sendCustomerJobExecutionProposals;
    
    __
+   
 5) Tech Support Job Negotiation Chat Session Service
    (Chat service between Tech Support customer and 
     the Tech Support provider to clear any doubts or
@@ -103,6 +122,7 @@ __
    (to be done ...)
 
    __
+   
 6) Tech Support Job Payment Service
    (Used for approval and processing Tech support job invocing
     and Tech support provider payment for a customer approved job done)
@@ -111,9 +131,12 @@ __
    (to be done ...)
 
    __
+   
 7) Tech Support Recommendation Service
    (Used for recommending and ratting a Tech Service Provider for
     a job well done or for not recommending at all)
 
    API CRUD EndPoints (ver 2.0):
    (to be done ...)
+   
+ # TO GET FULL A VERSION CODE BASE send me email to: bruno.cortereal@gmail.com
