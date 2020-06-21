@@ -40,14 +40,14 @@ __
 
 # System / API Services / Relational Database Model Design:
 
-1) Tech Support Provider user profilling service
+1) Tech Support Provider user profilling service / Using AUTH0 Spring Security API 
 
    API CRUD EndPoints (ver 1.0):
 
-   - registerProviderUser;              
-   - signInProviderUser;
-   - signOutProviderUser;
-   - deleteProviderUser;
+   - registerProviderUser;  / uses facebook authentication         
+   - signInProviderUser;    / uses facebook authentication
+   - signOutProviderUser;   / uses facebook authentication
+   - deleteProviderUser;    / uses facebook authentication
 
    - registerProviderUserContactInfo;
    - registerProviderUserPhoto&Video;
@@ -66,14 +66,14 @@ __
 
    __
    
-2) Tech Support Customer user profilling service
+2) Tech Support Customer user profilling service / Using AUTH0 Spring Security API 
 
    API CRUD EndPoints (ver 1.0):
 
-   - registerCustomerUser;
-   - signInCustomerUser;
-   - signOutCustomerUser;
-   - removeCustomerUser;
+   - registerCustomerUser;  / uses facebook authentication
+   - signInCustomerUser;    / uses facebook authentication
+   - signOutCustomerUser;   / uses facebook authentication
+   - removeCustomerUser;    / uses facebook authentication
    
    - registerCustomerUserContactInfo;
    - registerCustomerUserPhoto;
