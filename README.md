@@ -40,7 +40,7 @@ __
 
 # System / API Services / Relational Database Model Design:
 
-1) Tech Support Provider user profilling service / Using AUTH0 Spring Security API 
+1) Tech Support Provider user profilling service (Using AUTH0 Spring Security API)
 
    API CRUD EndPoints (ver 1.0):
 
@@ -66,7 +66,7 @@ __
 
    __
    
-2) Tech Support Customer user profilling service / Using AUTH0 Spring Security API 
+2) Tech Support Customer user profilling service (Using AUTH0 Spring Security API)
 
    API CRUD EndPoints (ver 1.0):
 
