@@ -139,4 +139,6 @@ __
    API CRUD EndPoints (ver 2.0):
    (to be done ...)
    
- # TO GET FULL A VERSION CODE BASE send me email to: bruno.cortereal@gmail.com
+ # TO GET FULL A VERSION CODE BASE 
+ Send email to: bruno.cortereal@gmail.com
+ Subject: Abilify API
