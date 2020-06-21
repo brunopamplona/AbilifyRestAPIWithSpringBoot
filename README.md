@@ -1,4 +1,5 @@
-# Abilify Rest API Implemented in Java Spring Boot, Hibernates and MySQL
+# Abilify Rest API Implemented in Java Spring Boot
+# Hibernates and MySQL
 
 The Abilify MarketPlace is a Service Oriented Architecture use case implementation of Tech Support service providers 
 
@@ -26,7 +27,7 @@ __
 
 + Escalability -> It is service oriented so it scales vertically by functionality volume usage;
 
-+ Maintainability -> Compliant with SOLID Development practices and code using design patterns and OOP;
++ Maintainability -> Domain Driven Design, Compliant with SOLID development practices and code, Using Design Patterns and OOP;
 
 + Flexibility -> Designed for multiple frontend devices and operating systems implementation (Mobile, Notebook, Desktop, Windoes, Android, IOS);
 
