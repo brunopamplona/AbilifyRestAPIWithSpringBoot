@@ -1,8 +1,10 @@
 # Abilify Rest API Implemented in Java Spring Boot, Hibernates and MySQL
 
-The Abilify MarketPlace is a Service Oriented Architecture use case implementation of Smart phones, TVs and all related smart 
+The Abilify MarketPlace is a Service Oriented Architecture use case implementation of Tech Support service providers 
 
-devices Tech Support service providers and customers marketplace (currently under full-stack development).
+and customers marketplace (Tech Support service include: Smart phones, TVs and all related smart devices Tech Support)  
+
+(currently under full-stack development).
 
 A customer has it´s Iphone screen broken and wants to repair it (after warranty has expired) he/she can do so by posting
 
