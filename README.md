@@ -37,8 +37,14 @@ __
 
 + Usability -> Designed for great user experience workflows and easy-to-use functionalities (such as:  post a tech support job, neighbourhood and email first then receive tech service providers contacts and ratea by email only then login using your facebook account and submit your full home address and phone to interact with tech service providers);
 __
+# Architecture & Tech Stack(FRONTEND):
 
-# System / API Services / Relational Database Model Design:
+1) CSS Library (BOOTSTRAP)
+2) Javascript Library (REACT.JS) with Redux Architecture on Responsive Desktop/Tablet/Mobile version;
+3) Javascript Framework (REACT NATIVE) with Redux on IOS and ANDROID version;
+
+__
+# SOA Architecture / Domain Drive Design / API Services / Relational Database Model Design (BACKEND):
 
 1) Tech Support Provider user profilling service (Using AUTH0 Spring Security API)
 
