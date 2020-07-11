@@ -1,4 +1,4 @@
-# ABILIFY SMART DEVICES TECH SUPPORT MARKET PLACE
+# ABILIFY SMART DEVICES TECH SUPPORT MARKETPLACE
 
 The Abilify MarketPlace is a Service Oriented Architecture use case implementation of Tech Support service providers 
 
