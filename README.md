@@ -1,5 +1,4 @@
-# Abilify Rest API Implemented in Java Spring Boot
-# Hibernates and MySQL
+# ABILIFY SMART DEVICES TECH SUPPORT MARKET PLACE
 
 The Abilify MarketPlace is a Service Oriented Architecture use case implementation of Tech Support service providers 
 
@@ -12,8 +11,10 @@ A customer has it´s Iphone screen broken and wants to repair it (after warranty
 a repair service gig on the Abilify Platform.
 
 __
+# Abilify Rest API Implemented in Java Spring Boot
+# Hibernates and MySQL (BACKEND) React/Bootstrap/React Native (FRONTEND)
 
-This code base is the implementantion of a Spring Boot RestFull API for the Ability Marketplace platform. The implementation,
+The code base is the implementantion of a Spring Boot RestFull API for the Ability Marketplace platform. The implementation,
 
 Is done using Hibernates, API-First & Domain Driven Design, Designed to Support Multiple front-end technologies & 
 
@@ -37,7 +38,7 @@ __
 
 + Usability -> Designed for great user experience workflows and easy-to-use functionalities (such as:  post a tech support job, neighbourhood and email first then receive tech service providers contacts and ratea by email only then login using your facebook account and submit your full home address and phone to interact with tech service providers);
 __
-# Architecture & Tech Stack(FRONTEND):
+# Architecture & Tech Stack (FRONTEND):
 
 1) CSS Library (BOOTSTRAP)
 2) Javascript Library (REACT.JS) with Redux Architecture on Responsive Desktop/Tablet/Mobile version;
