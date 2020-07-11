@@ -11,8 +11,7 @@ A customer has it´s Iphone screen broken and wants to repair it (after warranty
 a repair service gig on the Abilify Platform.
 
 __
-# Abilify Rest API Implemented in Java Spring Boot
-# Hibernates and MySQL (BACKEND) React/Bootstrap/React Native (FRONTEND)
+# Abilify Rest API Implemented in Java Spring Boot, Hibernates and MySQL (BACKEND) & React/Bootstrap/React Native (FRONTEND)
 
 The code base is the implementantion of a Spring Boot RestFull API for the Ability Marketplace platform. The implementation,
 
